@@ -1,0 +1,16 @@
+.vs/*
+*/Release/
+
+*.suo
+*.log
+*/Debug/
+ipch/
+*.sln
+*.db
+*.vcxproj
+*.filters
+stdafx.h
+stdafx.cpp
+targetver.h
+StdAfx.h
+StdAfx.cpp
